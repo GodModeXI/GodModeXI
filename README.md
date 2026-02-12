@@ -1,1 +1,1 @@
-# GodMode.github.io
+# GodMode Wiki
