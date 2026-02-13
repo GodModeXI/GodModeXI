@@ -56,4 +56,17 @@ Players can use the !hub command to be teleported to a utility hub.
 # Main Story Quest
 
 On GodMode there is a narrative driven Main Story Quest (MSQ)
+
 Phoenix in Valhalla (Heaven) has chosen you to be a vessel of power.
+
+<details>
+<summary>Chapter 1. Whispers</summary>
+
+1. After entering Vana'diel you are whisked away to valhalla
+2. Phoenix explains Rebirth and how it works
+3. Phoenix will test your endurance 
+4. Tells the player they’re not even remotely ready yet and sends them to Vana’diel to grow on their own.
+5. Quest Complete
+6. Player dropped in or near their Home Nation
+
+</details>
